@@ -1,0 +1,40 @@
+1.Java programming language 
+	Java is a computer programming language that is concurrent, class-based, object-oriented, 
+	and specifically designed to have as few implementation dependencies as possible. It is intended to 
+	let application developers "write once, run anywhere" (WORA),
+	meaning that code that runs on one platform does not need to be recompiled to run on another. 
+	Java applications are typically compiled to bytecode (class file) that can run on any 
+	Java virtual machine (JVM) regardless of computer architecture and as far as i know in this language 
+	all types are object type amd the developer don't need to define the actual type for each variable.
+2.c++ programming language
+	C++ (pronounced see plus plus) is a general purpose programming language that is free-form and compiled. 
+	It is regarded as an intermediate-level language, 
+	as it comprises both high-level and low-level language features. It provides imperative, object-oriented and 
+	generic programming features.
+	C++ is one of the most popular programming languages and is implemented on a wide variety of 
+	hardware and operating system platforms. As an efficient performance driven programming language it is used 
+	in systems software, application software, device drivers, embedded software, high-performance server and client 
+	applications, and entertainment software such as video games. Various entities provide both open source and 
+	proprietary C++ compiler software, including the FSF,
+ 	LLVM, Microsoft and Intel. C++ has influenced many other programming languages, for example, C# and Java. This 	language
+	count very much on the reability of the developer and "believes" in all of his actions and gives him a big 		number of 
+	opportunities.
+3.PHP programming language
+	PHP is a server-side scripting language designed for web development 
+	but also used as a general-purpose programming language. PHP is now installed on more 
+	than 244 million websites and 2.1 million web servers. Originally created by Rasmus Lerdorf in 1995, 
+	the reference implementation of PHP is now produced by The PHP Group. While PHP originally stood for Personal 		Home Page,
+	 it now stands for PHP: Hypertext Preprocessor, a recursive backronym.
+	PHP code is interpreted by a web server with a PHP processor module, which generates the resulting web page: 
+	PHP commands can be embedded directly into an HTML source document rather than calling an external file to 		process data. 
+	It has also evolved to include a command-line interface capability and can be used in standalone graphical 		applications.
+4.Pearl programming language
+	PEARL, or Process and Experiment Automation Realtime Language, is a computer programming language designed for 	multitasking and real-time programming. 
+	Being a high-level language, it is fairly cross-platform. PEARL supports both fixed-point and floating-point 		numeric values, character and character 
+	string data as well as bit values. It also provides facilities for structures and multi-dimensional arrays. 		Both typed and untyped pointers are also 
+	supported, along with typecasting.
+5.Python programming language
+	Python is a widely used general-purpose, high-level programming language.[14][15][16] Its design philosophy 		emphasizes code readability, and its syntax allows 	programmers to express concepts in fewer lines of code 	than 	would be possible in languages such as C.[17][18] The language provides constructs intended to 	enable 	clear programs 	on both a small and large scale.[19]
+	Python supports multiple programming paradigms, including object-oriented, imperative and functional 	programming or procedural styles. It features a dynamic 	type system and automatic memory management 	and hasa large and comprehensive standard library.[20]
+	Like other dynamic languages, Python is often used as a scripting language, but is also used in a wide range 	of non-scripting contexts. Using third-party 	tools, such as Py2exe, or Pyinstaller,[21] Python code can be 	packaged into standalone executable programs. Python interpreters are available for many 	operating 	systems.
+	The main diffenrence between c# and Java is that the first one is object orentated language and the other is 	script language, in C# you have to define the types of the variables, in java all is object and you dont have 	to do this. C# VB J#, F# they all use one platform and this is Microsoft.Net and this makes them very close. 	As far as I know PHP is for web development and some craphical applications.

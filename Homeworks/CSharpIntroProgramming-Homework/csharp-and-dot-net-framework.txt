@@ -1,0 +1,1 @@
+C sharp is a programming language which uses Visual studio as a IDE(commonly) and depends on .NET which is platform. First is language and other languages can depend on .NET framework.
