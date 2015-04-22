@@ -1,0 +1,11 @@
+#offersTable {
+    border-radius: 2px;
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+
+a {
+    font-size: 1.5em;
+    color: #00A8ED;
+}
+

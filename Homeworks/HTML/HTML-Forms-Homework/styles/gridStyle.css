@@ -1,0 +1,13 @@
+#gridTable {
+    border: solid 1px gray;
+    border-collapse: collapse;
+}
+
+#gridTable tr th {
+    padding: 4px;
+}
+
+table tr td {
+    padding: 4px;
+}
+
