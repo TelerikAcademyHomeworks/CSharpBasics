@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/myStyle.css"/>
+    <title>HTML-Tables</title>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th colspan="2">Fresh Fruits</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>It has long been known that a diet <br> that includes at least a few <br> servings of fresh fruit every day <br> will help keep you healthy, fit and <br> trim.</td>
+                <td><img src="images/Fruits.png" alt="no fresh fruits"/></td>
+            </tr>
+        </tbody>
+    </table>
+    <table border="1">
+        <colgroup>
+            <col style="width: 40px"/>
+            <col style="width: 30px"/>
+            <col style="width: 30px"/>
+            <col style="width: 30px"/>
+            <col style="width: 30px"/>
+            <tr>
+                <td colspan="3">Title goes here</td>
+                <td class="centerAlign">A</td>
+                <td class="rightAlign">B</td>
+            </tr>
+            <tr>
+               <td rowspan="3">C</td>
+                <td class="centerAlign">D</td>
+                <td class="centerAlign">E</td>
+                <td class="centerAlign">F</td>
+                <td class="rightAlign">G</td>
+            </tr>
+            <tr>
+                <td class="centerAlign">H</td>
+                <td colspan="2" class="centerAlign">I</td>
+                <td rowspan="2" class="rightAlign" valign="bottom">J</td>
+            </tr>
+            <tr>
+                <td class="centerAlign">K</td>
+                <td class="centerAlign">L</td>
+                <td class="centerAlign">M</td>
+            </tr>
+            <tr>
+                <td class="rightAlign">N</td>
+                <td colspan="4" class="centerAlign">O</td>
+            </tr>
+        </colgroup>
+    </table>
+</body>
+</html>
