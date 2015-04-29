@@ -1,0 +1,56 @@
+body {
+    font-family: calibri;
+}
+
+table {
+    border-collapse: collapse;
+    border-color: #C0BDBB;
+}
+tr td, tr th {
+    padding: 4px;
+    text-align: left;
+    border-right: 1px solid gray;
+}
+
+table tr:first-child {
+    background-color: #52B506;
+    border-collapse: collapse;
+}
+
+table tr:first-child th{
+    background-color: #52B506;
+    font-weight: normal;
+    color: white;
+    border-bottom: 1px solid gray;
+}
+
+th:first-of-type, td:first-of-type {
+    border-left: none;
+}
+
+th:last-of-type, td:last-of-type {
+    border-right: none;
+}
+
+tr:nth-child(odd) {
+    background-color: #ECECD8;
+}
+
+.mexico:before {
+    content: url("../images/mexicoFlag.png");
+    vertical-align: -23%;
+    margin-right: 6px;
+}
+
+#germany:before {
+    content: url("../images/germanFlag.png");
+    vertical-align: -23%;
+    margin-right: 6px;
+}
+
+#uk:before {
+    content: url("../images/ukFlag.png");
+    vertical-align: -15%;
+    margin-right: 6px;
+}
+

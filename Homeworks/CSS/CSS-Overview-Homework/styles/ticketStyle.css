@@ -1,0 +1,37 @@
+table {
+    background-color: #595959;
+    color: #C0BDBB;
+}
+
+table tr:first-child {
+    font-size: 1.3em;
+    padding-left: 2px;
+}
+
+.firstCol {
+    font-style: italic;
+    color: white;
+    padding-left: 2px;
+}
+
+.lightColor {
+    color: #FEF196;
+}
+
+#specialColor {
+    color: red;
+    padding-top: 0px;
+    font-weight: bold;
+}
+
+#anotherSpecialColor {
+    color: orange;
+}
+
+#name:before {
+    content: url("../images/dot.png");
+}
+
+.specialCell {
+    padding-bottom: 0px;
+}
